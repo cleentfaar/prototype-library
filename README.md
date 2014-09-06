@@ -1,4 +1,4 @@
-# package_name_here [![License](https://poser.pugx.org/cleentfaar/package_name_here/license.svg)](https://packagist.org/packages/cleentfaar/package_name_here)
+# PackageNameHere [![License](https://poser.pugx.org/cleentfaar/package_name_here/license.svg)](https://packagist.org/packages/cleentfaar/package_name_here)
 
 (Small introduction here)
 
