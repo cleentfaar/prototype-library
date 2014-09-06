@@ -10,7 +10,7 @@ Installing the library is pretty easy and can be done through either Composer or
 Add the following to your ``composer.json`` (see http://getcomposer.org/)
 ```json
 "require":  {
-    "cleentfaar/package_name_here": "~0.1"
+    "cleentfaar/package-name-here": "~0.1"
 }
 ```
 
@@ -18,7 +18,7 @@ Add the following to your ``composer.json`` (see http://getcomposer.org/)
 
 Run the following commands to bring in the library as a submodule.
 ```
-git submodule add https://github.com/cleentfaar/package_name_here.git vendor/cleentfaar/package_name_here
+git submodule add https://github.com/cleentfaar/package-name-here.git vendor/cleentfaar/package-name-here
 ```
 
 
@@ -32,7 +32,7 @@ Otherwise, add the following two namespace entries to the `registerNamespaces` c
 // path/to/your/autoload.php
 $loader->registerNamespaces(array(
     // ...
-    'CL\package_name_here' => __DIR__.'/../vendor/cleentfaar/package_name_here',
+    'CL\PackageNameHere' => __DIR__.'/../vendor/cleentfaar/package-name-here',
     // ...
 ));
 ```
