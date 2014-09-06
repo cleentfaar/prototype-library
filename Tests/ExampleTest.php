@@ -1,22 +1,28 @@
 <?php
 
-namespace CL\PACKAGE_NAME_HERE\Tests;
+namespace CL\PackageNameHere\Tests;
 
-use CL\PACKAGE_NAME_HERE\ExampleClass;
+use CL\PackageNameHere\Example\ExampleClass;
 
-class ExampleTest
+class ExampleTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @var ExampleClass
      */
     protected $example;
 
+    /**
+     * {@inheritdoc}
+     */
     protected function setUp()
     {
         $this->example = new ExampleClass();
     }
 
-    public function testFoo()
+    /**
+     * Tests whether getFoo returns 'bar'
+     */
+    public function testGetFoo()
     {
         $this->assertEquals('bar', $this->example->getFoo());
     }

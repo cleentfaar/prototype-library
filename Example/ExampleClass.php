@@ -1,6 +1,6 @@
 <?php
 
-namespace CL\PACKAGE_NAME_HERE;
+namespace CL\PackageNameHere\Example;
 
 class ExampleClass
 {

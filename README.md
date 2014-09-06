@@ -1,13 +1,13 @@
-# PACKAGE_NAME_HERE [![License](https://poser.pugx.org/cleentfaar/PACKAGE_NAME_HERE/license.svg)](https://packagist.org/packages/cleentfaar/PACKAGE_NAME_HERE)
+# package_name_here [![License](https://poser.pugx.org/cleentfaar/package_name_here/license.svg)](https://packagist.org/packages/cleentfaar/package_name_here)
 
 (Small introduction here)
 
-[![Build Status](https://secure.travis-ci.org/cleentfaar/PACKAGE_NAME_HERE.svg)](http://travis-ci.org/cleentfaar/PACKAGE_NAME_HERE)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/cleentfaar/PACKAGE_NAME_HERE/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/cleentfaar/PACKAGE_NAME_HERE/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/cleentfaar/PACKAGE_NAME_HERE/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/cleentfaar/PACKAGE_NAME_HERE/?branch=master)<br/>
-[![Latest Stable Version](https://poser.pugx.org/cleentfaar/PACKAGE_NAME_HERE/v/stable.svg)](https://packagist.org/packages/cleentfaar/PACKAGE_NAME_HERE)
-[![Total Downloads](https://poser.pugx.org/cleentfaar/PACKAGE_NAME_HERE/downloads.svg)](https://packagist.org/packages/cleentfaar/PACKAGE_NAME_HERE)
-[![Latest Unstable Version](https://poser.pugx.org/cleentfaar/PACKAGE_NAME_HERE/v/unstable.svg)](https://packagist.org/packages/cleentfaar/PACKAGE_NAME_HERE)
+[![Build Status](https://secure.travis-ci.org/cleentfaar/package_name_here.svg)](http://travis-ci.org/cleentfaar/package_name_here)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/cleentfaar/package_name_here/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/cleentfaar/package_name_here/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/cleentfaar/package_name_here/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/cleentfaar/package_name_here/?branch=master)<br/>
+[![Latest Stable Version](https://poser.pugx.org/cleentfaar/package_name_here/v/stable.svg)](https://packagist.org/packages/cleentfaar/package_name_here)
+[![Total Downloads](https://poser.pugx.org/cleentfaar/package_name_here/downloads.svg)](https://packagist.org/packages/cleentfaar/package_name_here)
+[![Latest Unstable Version](https://poser.pugx.org/cleentfaar/package_name_here/v/unstable.svg)](https://packagist.org/packages/cleentfaar/package_name_here)
 
 
 ### Documentation
